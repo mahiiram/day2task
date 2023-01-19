@@ -1,0 +1,20 @@
+
+-windows-
+ 
+ It is outer object in the element 
+1) In javascript function are working on this region.
+2) In javascript had a power to access the html and css.
+3) If we give input values in windows its have visibility to show a output in console.
+4) We can access the whole document for speed up the performance.
+5) Dynamically access the element. we can inspect the elements.
+6) It have a properties and methods
+
+-Document-
+
+1) User inputs are displayed in the document.
+2) Html and css works displaying here.
+3) But in document side also access the javascript.
+4) The document have the contents of the page
+5) Using document object, JavaScript can modify, add and delete the HTML elements, attributes CSS styles in the page
+6) Its also have a properties and methods
+7) It doesnt show output in console
